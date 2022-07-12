@@ -16,6 +16,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 <a href="www.linkedin.com/in/harold-andres-riascos-manyoma-980748238" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="www.linkedin.com/in/harold-andres-riascos-manyoma-980748238" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
+</a> 
 </div> 
 
 Whatsapp: +57 316 252 3086
@@ -26,9 +29,6 @@ Email: haroldriascos208@gmail.com
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-</a>
 <!---
 Larryc8/Larryc8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
