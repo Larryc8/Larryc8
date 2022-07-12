@@ -19,7 +19,7 @@ I am a highly motivated person with a friendly personality. I am a passionate El
 </div>
 
 
-## 💻 Projects
+<!---## 💻 Projects --->
 
 ## 📫 Connect with me  
 - **Whatsapp**: +57 316 252 3086
