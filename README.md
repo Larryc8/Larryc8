@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Harold
+# Hi there 👋, my name is Harold
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a highly motivated person with a friendly personality. I am a passionate Electronic engineering student,  Linux enthusiastic and an open source lover. Furthermore, I am a responsible and hardworking person, good at detail and Willing to learn new technologies.
