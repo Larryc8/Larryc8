@@ -22,9 +22,9 @@ VUE JS / REACT / JS / HTML / CSS
 </a> 
 </div> 
 
--Whatsapp: +57 316 252 3086
--Telegram : +57 316 252 3086
--Email: haroldriascos208@gmail.com
+- Whatsapp: +57 316 252 3086
+- Telegram : +57 316 252 3086
+- Email: haroldriascos208@gmail.com
 
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
