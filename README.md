@@ -11,7 +11,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 -  I feel comfortable working with :
 -  💻 Projects
 
-I can be contacted at all times on the details provided above.
+## Connect with me  
+<div align="center">
+<a href="www.linkedin.com/in/harold-andres-riascos-manyoma-980748238" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div> 
 
 Whatsapp: +57 316 252 3086
 Telegram : +57 316 252 3086
