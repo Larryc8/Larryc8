@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
 
-### <div align="center">I'm Harold, a full-time full-stack  developer 👨‍💻 </div>  
+### <div align="center">I'm Harold, a  full-stack  developer 👨‍💻 </div>  
 
 I am a highly motivated person with a friendly personality. I am a passionate Electronic engineering student,  Linux enthusiastic and an open source lover. Furthermore, I am a responsible and hardworking person, good at detail and Willing to learn new technologies.
 
@@ -10,7 +10,7 @@ I am a highly motivated person with a friendly personality. I am a passionate El
 VUE JS / REACT / JS / HTML / CSS
 
 
--  💻 Projects
+##  💻 Projects
 
 ## Connect with me  
 <div align="center">
