@@ -22,9 +22,11 @@ I am a highly motivated person with a friendly personality. I am a passionate El
 <!---## 💻 Projects --->
 
 ## 📫 Connect with me  
+
 <a href="www.linkedin.com/in/harold-riascos" target="_blank">
   <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
+
 - **Whatsapp**: +57 316 252 3086
 - **Telegram** : +57 316 252 3086
 - **Email**: haroldriascos208@gmail.com
